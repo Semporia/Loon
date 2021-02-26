@@ -1,0 +1,6 @@
+# Speedtest
+DOMAIN-SUFFIX,fast.com,Speedtest
+DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
+USER-AGENT,SpeedTest*,Speedtest
