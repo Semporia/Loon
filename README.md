@@ -1,6 +1,6 @@
-# Loon
-Description
-Loon is a powerful network debugging tool.
+# Description
+
+**Loon is a powerful network debugging tool.**
 
 - Support ss,ssr,vmess,trojan protocol
 - Capture all HTTP/HTTPS/TCP/UDP traffic on your device, and redirect to your proxy server.
