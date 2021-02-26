@@ -1,0 +1,6 @@
+# PayPal
+DOMAIN-SUFFIX,paypal.com,PayPal
+DOMAIN-SUFFIX,paypal.me,PayPal
+DOMAIN-SUFFIX,paypalobjects.com,PayPal
+DOMAIN-KEYWORD,paypal,PayPal
+USER-AGENT,PayPal*,PayPal
