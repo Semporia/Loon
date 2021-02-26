@@ -12,3 +12,12 @@
 - Async DNS Request.
 - Record DNS Result.
 - Use javaScripts to extend proxy functionality
+
+- For more about proxy:
+- https://github.com/Loon0x00/LoonManual/blob/master/README.md
+
+- Join our telegram group:
+- https://t.me/Loon0x00
+
+- Contact us
+- loon0x00@gmail.com
