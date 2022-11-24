@@ -1,9 +1,12 @@
 # NAME: Speedtest
-
-HOST,speed.dler.io,Speedtest
-HOST-SUFFIX,fast.com,Speedtest
-HOST-SUFFIX,ooklaserver.net,Speedtest
-HOST-SUFFIX,speed.cloudflare.com,Speedtest
-HOST-SUFFIX,speed.dler.io,Speedtest
-HOST-KEYWORD,speedtest,Speedtest
-USER-AGENT,SpeedTest*,Speedtest
+# UPDATED: 2022-11-03 17:10:06
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 4
+# USER-AGENT: 1
+# TOTAL: 6
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+DOMAIN-KEYWORD,speedtest
+USER-AGENT,SpeedTest*
