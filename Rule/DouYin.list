@@ -1,8 +1,17 @@
 # NAME: DouYin
 
-DOMAIN-SUFFIX,amemv.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,amemv.com,DouYin
+DOMAIN-SUFFIX,ixigua.com,DouYin
+DOMAIN-SUFFIX,ixiguavideo.com,DouYin
+DOMAIN-SUFFIX,pstatp.com,DouYin
+DOMAIN-SUFFIX,snssdk.com,DouYin
+DOMAIN-SUFFIX,toutiao.com,DouYin
+DOMAIN-KEYWORD, ecombdapi, DouYin
+DOMAIN-KEYWORD, zjurl, DouYin
+DOMAIN-KEYWORD, douyinstatic, DouYin
+DOMAIN-KEYWORD, zijieapi, DouYin
+DOMAIN-KEYWORD, douyin, DouYin
+DOMAIN-KEYWORD, douyinvod, DouYin
+DOMAIN-KEYWORD, zjcdn, DouYin
+DOMAIN-KEYWORD, douyinpic, DouYin
+DOMAIN-KEYWORD, toutiao, DouYin
