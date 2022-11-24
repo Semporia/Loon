@@ -1,31 +1,31 @@
 # NAME: WeChat
-HOST,dl.wechat.com,WeChat
-HOST,sgfindershort.wechat.com,WeChat
-HOST,sgilinkshort.wechat.com,WeChat
-HOST,sglong.wechat.com,WeChat
-HOST,sgminorshort.wechat.com,WeChat
-HOST,sgshort.wechat.com,WeChat
-HOST,tencentmap.wechat.com,WeChat
-HOST-SUFFIX,qlogo.cn,WeChat
-HOST-SUFFIX,qpic.cn,WeChat
-HOST-SUFFIX,servicewechat.com,WeChat
-HOST-SUFFIX,tenpay.com,WeChat
-HOST-SUFFIX,wechat.com,WeChat
-HOST-SUFFIX,wechatlegal.net,WeChat
-HOST-SUFFIX,wechatpay.com,WeChat
-HOST-SUFFIX,weixin.com,WeChat
-HOST-SUFFIX,weixin.qq.com,WeChat
-HOST-SUFFIX,weixinbridge.com,WeChat
-HOST-SUFFIX,weixinsxy.com,WeChat
-HOST-SUFFIX,wxapp.tc.qq.com,WeChat
-USER-AGENT,MicroMessenger*,WeChat
-USER-AGENT,WeChat*,WeChat
-IP-CIDR,101.32.104.4/32,WeChat
-IP-CIDR,101.32.104.41/32,WeChat
-IP-CIDR,101.32.104.56/32,WeChat
-IP-CIDR,101.32.118.25/32,WeChat
-IP-CIDR,101.32.133.16/32,WeChat
-IP-CIDR,101.32.133.209/32,WeChat
-IP-CIDR,101.32.133.53/32,WeChat
-IP-CIDR,129.226.107.244/32,WeChat
-IP-CIDR,129.226.3.47/32,WeChat
+# UPDATED: 2022-11-03 17:11:17
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 12
+# IP-CIDR: 9
+# USER-AGENT: 2
+# TOTAL: 24
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+DOMAIN-SUFFIX,wxapp.tc.qq.com
+DOMAIN-KEYWORD,43.156.222.
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
+IP-CIDR,101.32.104.4/32,no-resolve
+IP-CIDR,101.32.104.41/32,no-resolve
+IP-CIDR,101.32.104.56/32,no-resolve
+IP-CIDR,101.32.118.25/32,no-resolve
+IP-CIDR,101.32.133.16/32,no-resolve
+IP-CIDR,101.32.133.209/32,no-resolve
+IP-CIDR,101.32.133.53/32,no-resolve
+IP-CIDR,129.226.107.244/32,no-resolve
+IP-CIDR,129.226.3.47/32,no-resolve
