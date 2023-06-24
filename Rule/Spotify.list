@@ -1,30 +1,24 @@
 # NAME: Spotify
-# UPDATED: 2022-11-03 17:10:07
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 19
-# IP-CIDR: 1
-# USER-AGENT: 1
-# TOTAL: 23
-DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,byspotify.com
-DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify-com.akamaized.net
-DOMAIN-SUFFIX,spotify-everywhere.com
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotify.design
-DOMAIN-SUFFIX,spotifycdn.com
-DOMAIN-SUFFIX,spotifycdn.net
-DOMAIN-SUFFIX,spotifycharts.com
-DOMAIN-SUFFIX,spotifycodes.com
-DOMAIN-SUFFIX,spotifyforbrands.com
-DOMAIN-SUFFIX,spotifyjobs.com
-DOMAIN-SUFFIX,spotifynewsroom.jp
-DOMAIN-SUFFIX,spotilocal.com
-DOMAIN-SUFFIX,tospotify.com
-DOMAIN-KEYWORD,-spotify-com
-DOMAIN-KEYWORD,spotify.com
-USER-AGENT,Spotify*
-IP-CIDR,35.186.224.47/32,no-resolve
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,Spotify
+HOST-SUFFIX,byspotify.com,Spotify
+HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,Spotify
+HOST-SUFFIX,pscdn.co,Spotify
+HOST-SUFFIX,scdn.co,Spotify
+HOST-SUFFIX,spoti.fi,Spotify
+HOST-SUFFIX,spotify-com.akamaized.net,Spotify
+HOST-SUFFIX,spotify-everywhere.com,Spotify
+HOST-SUFFIX,spotify.com,Spotify
+HOST-SUFFIX,spotify.design,Spotify
+HOST-SUFFIX,spotifycdn.com,Spotify
+HOST-SUFFIX,spotifycdn.net,Spotify
+HOST-SUFFIX,spotifycharts.com,Spotify
+HOST-SUFFIX,spotifycodes.com,Spotify
+HOST-SUFFIX,spotifyforbrands.com,Spotify
+HOST-SUFFIX,spotifyjobs.com,Spotify
+HOST-SUFFIX,spotifynewsroom.jp,Spotify
+HOST-SUFFIX,spotilocal.com,Spotify
+HOST-SUFFIX,tospotify.com,Spotify
+HOST-KEYWORD,-spotify-com,Spotify
+HOST-KEYWORD,spotify.com,Spotify
+USER-AGENT,Spotify*,Spotify
+IP-CIDR,35.186.224.47/32,Spotify
