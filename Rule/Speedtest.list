@@ -1,25 +1,25 @@
 # NAME: Speedtest
 # UPDATED: 2023-02-15 23:45:29
-# HOST: 1
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 14
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 14
 # USER-AGENT: 1
 # TOTAL: 17
-HOST,speed.dler.io,Speedtest
-HOST-SUFFIX,cdnst.net,Speedtest
-HOST-SUFFIX,cellmaps.com,Speedtest
-HOST-SUFFIX,ekahau.cloud,Speedtest
-HOST-SUFFIX,ekahau.com,Speedtest
-HOST-SUFFIX,fast.com,Speedtest
-HOST-SUFFIX,ookla.com,Speedtest
-HOST-SUFFIX,ooklaserver.net,Speedtest
-HOST-SUFFIX,pingtest.net,Speedtest
-HOST-SUFFIX,speed.cloudflare.com,Speedtest
-HOST-SUFFIX,speed.dler.io,Speedtest
-HOST-SUFFIX,speedtest.co,Speedtest
-HOST-SUFFIX,speedtest.net,Speedtest
-HOST-SUFFIX,speedtestcustom.com,Speedtest
-HOST-SUFFIX,webtest.net,Speedtest
-HOST-KEYWORD,speedtest,Speedtest
-HOST-KEYWORD,testspeed,Speedtest
+DOMAIN,speed.dler.io,Speedtest
+DOMAIN-SUFFIX,cdnst.net,Speedtest
+DOMAIN-SUFFIX,cellmaps.com,Speedtest
+DOMAIN-SUFFIX,ekahau.cloud,Speedtest
+DOMAIN-SUFFIX,ekahau.com,Speedtest
+DOMAIN-SUFFIX,fast.com,Speedtest
+DOMAIN-SUFFIX,ookla.com,Speedtest
+DOMAIN-SUFFIX,ooklaserver.net,Speedtest
+DOMAIN-SUFFIX,pingtest.net,Speedtest
+DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
+DOMAIN-SUFFIX,speed.dler.io,Speedtest
+DOMAIN-SUFFIX,speedtest.co,Speedtest
+DOMAIN-SUFFIX,speedtest.net,Speedtest
+DOMAIN-SUFFIX,speedtestcustom.com,Speedtest
+DOMAIN-SUFFIX,webtest.net,Speedtest
+DOMAIN-KEYWORD,speedtest,Speedtest
+DOMAIN-KEYWORD,testspeed,Speedtest
 USER-AGENT,SpeedTest*,Speedtest
