@@ -1,15 +1,15 @@
 # NAME: DingTalk
 # UPDATED: 2023-05-28 18:22:00
-# HOST-SUFFIX: 11
+# DOMAIN-SUFFIX: 11
 # TOTAL: 11
-HOST-SUFFIX,ddurl.to,DingTalk
-HOST-SUFFIX,dg-work.cn,DingTalk
-HOST-SUFFIX,dingding.xin,DingTalk
-HOST-SUFFIX,dingtalk.cn,DingTalk
-HOST-SUFFIX,dingtalk.com,DingTalk
-HOST-SUFFIX,dingtalk.com.cn,DingTalk
-HOST-SUFFIX,dingtalk.net,DingTalk
-HOST-SUFFIX,dingtalkapps.com,DingTalk
-HOST-SUFFIX,laiwang.com,DingTalk
-HOST-SUFFIX,lwurl.to,DingTalk
-HOST-SUFFIX,realapp.xin,DingTalk
+DOMAIN-SUFFIX,ddurl.to
+DOMAIN-SUFFIX,dg-work.cn
+DOMAIN-SUFFIX,dingding.xin
+DOMAIN-SUFFIX,dingtalk.cn
+DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dingtalk.com.cn
+DOMAIN-SUFFIX,dingtalk.net
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,laiwang.com
+DOMAIN-SUFFIX,lwurl.to
+DOMAIN-SUFFIX,realapp.xin
