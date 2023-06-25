@@ -1,14 +1,14 @@
 # NAME: Wikipedia
 
-HOST-SUFFIX,mediawiki.org,Wikipedia
-HOST-SUFFIX,wikibooks.org,Wikipedia
-HOST-SUFFIX,wikidata.org,Wikipedia
-HOST-SUFFIX,wikileaks.org,Wikipedia
-HOST-SUFFIX,wikimedia.org,Wikipedia
-HOST-SUFFIX,wikinews.org,Wikipedia
-HOST-SUFFIX,wikipedia.org,Wikipedia
-HOST-SUFFIX,wikiquote.org,Wikipedia
-HOST-SUFFIX,wikisource.org,Wikipedia
-HOST-SUFFIX,wikiversity.org,Wikipedia
-HOST-SUFFIX,wikivoyage.org,Wikipedia
-HOST-SUFFIX,wiktionary.org,Wikipedia
+DOMAIN-SUFFIX,mediawiki.org,Wikipedia
+DOMAIN-SUFFIX,wikibooks.org,Wikipedia
+DOMAIN-SUFFIX,wikidata.org,Wikipedia
+DOMAIN-SUFFIX,wikileaks.org,Wikipedia
+DOMAIN-SUFFIX,wikimedia.org,Wikipedia
+DOMAIN-SUFFIX,wikinews.org,Wikipedia
+DOMAIN-SUFFIX,wikipedia.org,Wikipedia
+DOMAIN-SUFFIX,wikiquote.org,Wikipedia
+DOMAIN-SUFFIX,wikisource.org,Wikipedia
+DOMAIN-SUFFIX,wikiversity.org,Wikipedia
+DOMAIN-SUFFIX,wikivoyage.org,Wikipedia
+DOMAIN-SUFFIX,wiktionary.org,Wikipedia
