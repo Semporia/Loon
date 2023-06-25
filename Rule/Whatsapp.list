@@ -1,11 +1,11 @@
 # NAME: Whatsapp
 
-HOST,graph.facebook.com,Whatsapp
-HOST-SUFFIX,bintray.com,Whatsapp
-HOST-SUFFIX,whatsapp.biz,Whatsapp
-HOST-SUFFIX,whatsapp.com,Whatsapp
-HOST-SUFFIX,whatsapp.net,Whatsapp
-HOST-KEYWORD,whatsapp,Whatsapp
+DOMAIN,graph.facebook.com,Whatsapp
+DOMAIN-SUFFIX,bintray.com,Whatsapp
+DOMAIN-SUFFIX,whatsapp.biz,Whatsapp
+DOMAIN-SUFFIX,whatsapp.com,Whatsapp
+DOMAIN-SUFFIX,whatsapp.net,Whatsapp
+DOMAIN-KEYWORD,whatsapp,Whatsapp
 IP-CIDR,108.168.174.0/16,Whatsapp
 IP-CIDR,158.85.224.160/27,Whatsapp
 IP-CIDR,158.85.46.128/27,Whatsapp
