@@ -1,14 +1,16 @@
 # NAME: Wikipedia
-
-DOMAIN-SUFFIX,mediawiki.org,Wikipedia
-DOMAIN-SUFFIX,wikibooks.org,Wikipedia
-DOMAIN-SUFFIX,wikidata.org,Wikipedia
-DOMAIN-SUFFIX,wikileaks.org,Wikipedia
-DOMAIN-SUFFIX,wikimedia.org,Wikipedia
-DOMAIN-SUFFIX,wikinews.org,Wikipedia
-DOMAIN-SUFFIX,wikipedia.org,Wikipedia
-DOMAIN-SUFFIX,wikiquote.org,Wikipedia
-DOMAIN-SUFFIX,wikisource.org,Wikipedia
-DOMAIN-SUFFIX,wikiversity.org,Wikipedia
-DOMAIN-SUFFIX,wikivoyage.org,Wikipedia
-DOMAIN-SUFFIX,wiktionary.org,Wikipedia
+# UPDATED: 2024-07-03 16:16:11
+# DOMAIN-SUFFIX: 12
+# TOTAL: 12
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikileaks.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
