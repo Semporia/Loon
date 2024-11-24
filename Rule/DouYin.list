@@ -1,7 +1,10 @@
 # NAME: DouYin
-# UPDATED: 2023-05-28 18:23:14
+# UPDATED: 2024-07-03 16:17:40
+# DOMAIN: 2
 # DOMAIN-SUFFIX: 11
-# TOTAL: 11
+# TOTAL: 13
+DOMAIN,lf3-static.bytednsdoc.com
+DOMAIN,v5-dy-o-abtest.zjcdn.com
 DOMAIN-SUFFIX,amemv.com
 DOMAIN-SUFFIX,douyincdn.com
 DOMAIN-SUFFIX,douyinpic.com
@@ -13,13 +16,7 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
-DOMAIN-KEYWORD, ecombdapi, DouYin
-DOMAIN-KEYWORD, zjurl, DouYin
-DOMAIN-KEYWORD, douyinstatic, DouYin
-DOMAIN-KEYWORD, zijieapi, DouYin
-DOMAIN-KEYWORD, douyin, DouYin
-DOMAIN-KEYWORD, douyinvod, DouYin
-DOMAIN-KEYWORD, zjcdn, DouYin
-DOMAIN-KEYWORD, douyinpic, DouYin
-DOMAIN-KEYWORD, toutiao, DouYin
+DOMAIN-KEYWORD, ecombdapi
+DOMAIN-KEYWORD, zjurl
+DOMAIN-KEYWORD, zijieapi
 
