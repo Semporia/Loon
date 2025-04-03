@@ -1,24 +1,40 @@
-# NAME: Whatsapp
-# UPDATED: 2024-07-03 16:16:12
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 4
-# IP-CIDR: 11
-# TOTAL: 17
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,bintray.com
-DOMAIN-SUFFIX,whatsapp.biz
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,whatsapp
-IP-CIDR,158.85.224.160/27,no-resolve
-IP-CIDR,158.85.46.128/27,no-resolve
-IP-CIDR,158.85.5.192/27,no-resolve
-IP-CIDR,173.192.222.160/27,no-resolve
-IP-CIDR,173.192.231.32/27,no-resolve
-IP-CIDR,18.194.0.0/15,no-resolve
-IP-CIDR,184.173.128.0/17,no-resolve
-IP-CIDR,208.43.122.128/27,no-resolve
-IP-CIDR,34.224.0.0/12,no-resolve
-IP-CIDR,50.22.198.204/30,no-resolve
-IP-CIDR,54.242.0.0/15,no-resolve
+# NAME: WeChat
+# UPDATED: 2024-07-03 16:17:23
+# DOMAIN: 8
+# DOMAIN-SUFFIX: 22
+# IP-ASN: 1
+# USER-AGENT: 2
+# TOTAL: 33
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
+DOMAIN,btrace.qq.com
+DOMAIN,dldir1.qq.com
+DOMAIN,slife.xy-asia.com
+DOMAIN,soup.v.qq.com
+DOMAIN,vweixinf.tc.qq.com
+DOMAIN,weixin110.qq.com
+DOMAIN,wup.imtt.qq.com
+DOMAIN-SUFFIX,iot-tencent.com
+DOMAIN-SUFFIX,lbs.gtimg.com
+DOMAIN-SUFFIX,map.qq.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,servicewechat.com
+DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,up-hl.3g.qq.com
+DOMAIN-SUFFIX,vweixinthumb.tc.qq.com
+DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,wechatlegal.net
+DOMAIN-SUFFIX,wechatos.net
+DOMAIN-SUFFIX,wechatpay.com
+DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weixinsxy.com
+DOMAIN-SUFFIX,wx.gtimg.com
+DOMAIN-SUFFIX,wx.qq.com
+DOMAIN-SUFFIX,wxapp.tc.qq.com
+DOMAIN-SUFFIX,wxs.qq.com
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
+USER-AGENT,MicroMessenger*
+USER-AGENT,WeChat*
+IP-ASN,132203,no-resolve
