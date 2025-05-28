@@ -1,9 +1,9 @@
 # NAME: Tencent
-# UPDATED: 2024-07-03 16:16:36
-# DOMAIN-SUFFIX: 473
+# UPDATED: 2024-12-06 02:13:11
+# DOMAIN-SUFFIX: 474
 # IP-CIDR: 11
 # USER-AGENT: 5
-# TOTAL: 489
+# TOTAL: 490
 DOMAIN-SUFFIX,1700.cn
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,700chat.com
@@ -278,7 +278,6 @@ DOMAIN-SUFFIX,rtxapp.com
 DOMAIN-SUFFIX,rtxonline.com
 DOMAIN-SUFFIX,safejmp.com
 DOMAIN-SUFFIX,serverlesscloud.cn
-DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,shuame.com
 DOMAIN-SUFFIX,shurl.cn
 DOMAIN-SUFFIX,sixjoy.com
@@ -432,10 +431,6 @@ DOMAIN-SUFFIX,vodtcbk.com
 DOMAIN-SUFFIX,voovlive.com
 DOMAIN-SUFFIX,vxo7tu.com
 DOMAIN-SUFFIX,wanjiashow.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatlegal.net
-DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,wechatpay.com.hk
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,weiaixiaoshuo.com
