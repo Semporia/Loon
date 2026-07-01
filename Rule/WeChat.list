@@ -1,5 +1,5 @@
 # NAME: WeChat
-# UPDATED: 2024-07-03 16:17:23
+# UPDATED: 2025-06-06 09:18:25
 # DOMAIN: 8
 # DOMAIN-SUFFIX: 22
 # IP-ASN: 1
@@ -26,8 +26,6 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatlegal.net
 DOMAIN-SUFFIX,wechatos.net
 DOMAIN-SUFFIX,wechatpay.com
-DOMAIN-SUFFIX,wechatpay.cn
-DOMAIN-SUFFIX,wechatpay.com.hk
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,weixinbridge.com
