@@ -1,8 +1,8 @@
-# NAME: GitHub
-# UPDATED: 2024-07-03 16:14:51
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 29
-# TOTAL: 30
+# ================================================
+# GitHub 规则 (Loon)
+# 生成时间: 2026-07-08 21:07:57
+# ================================================
+DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev
@@ -32,4 +33,3 @@ DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,repo.new
 DOMAIN-SUFFIX,thegithubshop.com
-DOMAIN-KEYWORD,github
