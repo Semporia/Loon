@@ -1,10 +1,9 @@
-# NAME: Facebook
-# UPDATED: 2024-07-03 16:16:10
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 544
-# IP-ASN: 1
-# IP-CIDR: 23
-# TOTAL: 570
+# ================================================
+# Facebook 规则 (Loon)
+# 生成时间: 2026-07-08 21:06:55
+# ================================================
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,fbcdn
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,accountkit.com
@@ -526,6 +525,16 @@ DOMAIN-SUFFIX,toplayerserver.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,web-instagram.net
+DOMAIN-SUFFIX,whatsapp-plus.info
+DOMAIN-SUFFIX,whatsapp-plus.me
+DOMAIN-SUFFIX,whatsapp-plus.net
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsapp.cc
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.info
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.org
+DOMAIN-SUFFIX,whatsapp.tv
 DOMAIN-SUFFIX,whatsappbrand.com
 DOMAIN-SUFFIX,whyfacebook.com
 DOMAIN-SUFFIX,workplace.com
@@ -539,8 +548,6 @@ DOMAIN-SUFFIX,wwwmfacebook.com
 DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
-DOMAIN-KEYWORD,facebook
-DOMAIN-KEYWORD,fbcdn
 IP-ASN,32934,no-resolve
 IP-CIDR,108.168.176.192/26,no-resolve
 IP-CIDR,108.168.177.0/27,no-resolve
