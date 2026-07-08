@@ -1,25 +1,10 @@
-# NAME: Speedtest
-# UPDATED: 2023-02-15 23:45:29
-# DOMAIN: 1
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 14
-# USER-AGENT: 1
-# TOTAL: 17
-DOMAIN,speed.dler.io,Speedtest
-DOMAIN-SUFFIX,cdnst.net,Speedtest
-DOMAIN-SUFFIX,cellmaps.com,Speedtest
-DOMAIN-SUFFIX,ekahau.cloud,Speedtest
-DOMAIN-SUFFIX,ekahau.com,Speedtest
-DOMAIN-SUFFIX,fast.com,Speedtest
-DOMAIN-SUFFIX,ookla.com,Speedtest
-DOMAIN-SUFFIX,ooklaserver.net,Speedtest
-DOMAIN-SUFFIX,pingtest.net,Speedtest
-DOMAIN-SUFFIX,speed.cloudflare.com,Speedtest
-DOMAIN-SUFFIX,speed.dler.io,Speedtest
-DOMAIN-SUFFIX,speedtest.co,Speedtest
-DOMAIN-SUFFIX,speedtest.net,Speedtest
-DOMAIN-SUFFIX,speedtestcustom.com,Speedtest
-DOMAIN-SUFFIX,webtest.net,Speedtest
-DOMAIN-KEYWORD,speedtest,Speedtest
-DOMAIN-KEYWORD,testspeed,Speedtest
-USER-AGENT,SpeedTest*,Speedtest
+# ================================================
+# Speedtest 规则 (Loon)
+# 生成时间: 2026-07-08 21:13:06
+# ================================================
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,speed.cloudflare.com
+DOMAIN-SUFFIX,speed.dler.io
+USER-AGENT,SpeedTest*
