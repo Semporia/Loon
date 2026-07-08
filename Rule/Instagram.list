@@ -1,9 +1,8 @@
-# NAME: Instagram
-# UPDATED: 2024-07-03 16:16:12
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# ================================================
+# Instagram 规则 (Loon)
+# 生成时间: 2026-07-08 21:09:29
+# ================================================
+DOMAIN-KEYWORD,instagram
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
-DOMAIN-KEYWORD,instagram

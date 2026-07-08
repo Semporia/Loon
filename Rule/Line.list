@@ -1,8 +1,7 @@
-# NAME: Line
-# UPDATED: 2024-07-03 16:16:08
-# DOMAIN-SUFFIX: 8
-# IP-CIDR: 16
-# TOTAL: 24
+# ================================================
+# Line 规则 (Loon)
+# 生成时间: 2026-07-08 21:10:00
+# ================================================
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps.com
 DOMAIN-SUFFIX,line-cdn.net
@@ -27,20 +26,3 @@ IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
-
-# NAME: LineTV
-# UPDATED: 2024-07-03 16:16:14
-# DOMAIN: 3
-# DOMAIN-SUFFIX: 5
-# USER-AGENT: 2
-# TOTAL: 10
-DOMAIN,d17lx9ucc6k9fc.cloudfront.net
-DOMAIN,d3pgb93pk7bvxj.cloudfront.net
-DOMAIN,d3vm9lcxb6xcm4.cloudfront.net
-DOMAIN-SUFFIX,chocotv.com.tw
-DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
-DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,linetv.tw
-USER-AGENT,LINE%20TV*
-USER-AGENT,LINE*
