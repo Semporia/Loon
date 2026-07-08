@@ -1,7 +1,7 @@
-# NAME: Wikipedia
-# UPDATED: 2024-07-03 16:16:11
-# DOMAIN-SUFFIX: 12
-# TOTAL: 12
+# ================================================
+# Wikipedia 规则 (Loon)
+# 生成时间: 2026-07-08 21:18:14
+# ================================================
 DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikidata.org
