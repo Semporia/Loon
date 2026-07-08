@@ -1,11 +1,11 @@
-# NAME: Twitter
-# UPDATED: 2024-07-03 16:16:10
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 25
-# IP-CIDR: 6
-# TOTAL: 32
+# ================================================
+# Twitter 规则 (Loon)
+# 生成时间: 2026-07-08 21:16:42
+# ================================================
+DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
-DOMAIN-KEYWORD,twitter
 IP-CIDR,192.133.76.0/22,no-resolve
 IP-CIDR,199.59.148.0/22,no-resolve
 IP-CIDR,199.96.56.0/21,no-resolve
