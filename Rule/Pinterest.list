@@ -1,25 +1,27 @@
-# NAME: Pinterest
-
-DOMAIN-SUFFIX,pinimg.com,Pinterest
-DOMAIN-SUFFIX,pinterest.at,Pinterest
-DOMAIN-SUFFIX,pinterest.ca,Pinterest
-DOMAIN-SUFFIX,pinterest.ch,Pinterest
-DOMAIN-SUFFIX,pinterest.cl,Pinterest
-DOMAIN-SUFFIX,pinterest.co.kr,Pinterest
-DOMAIN-SUFFIX,pinterest.co.uk,Pinterest
-DOMAIN-SUFFIX,pinterest.com,Pinterest
-DOMAIN-SUFFIX,pinterest.com.au,Pinterest
-DOMAIN-SUFFIX,pinterest.com.mx,Pinterest
-DOMAIN-SUFFIX,pinterest.de,Pinterest
-DOMAIN-SUFFIX,pinterest.dk,Pinterest
-DOMAIN-SUFFIX,pinterest.es,Pinterest
-DOMAIN-SUFFIX,pinterest.fr,Pinterest
-DOMAIN-SUFFIX,pinterest.ie,Pinterest
-DOMAIN-SUFFIX,pinterest.it,Pinterest
-DOMAIN-SUFFIX,pinterest.jp,Pinterest
-DOMAIN-SUFFIX,pinterest.nl,Pinterest
-DOMAIN-SUFFIX,pinterest.nz,Pinterest
-DOMAIN-SUFFIX,pinterest.ph,Pinterest
-DOMAIN-SUFFIX,pinterest.pt,Pinterest
-DOMAIN-SUFFIX,pinterest.ru,Pinterest
-DOMAIN-SUFFIX,pinterest.se,Pinterest
+# ================================================
+# Pinterest 规则 (Loon)
+# 生成时间: 2026-07-08 21:12:04
+# ================================================
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.at
+DOMAIN-SUFFIX,pinterest.ca
+DOMAIN-SUFFIX,pinterest.ch
+DOMAIN-SUFFIX,pinterest.cl
+DOMAIN-SUFFIX,pinterest.co.kr
+DOMAIN-SUFFIX,pinterest.co.uk
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pinterest.com.au
+DOMAIN-SUFFIX,pinterest.com.mx
+DOMAIN-SUFFIX,pinterest.de
+DOMAIN-SUFFIX,pinterest.dk
+DOMAIN-SUFFIX,pinterest.es
+DOMAIN-SUFFIX,pinterest.fr
+DOMAIN-SUFFIX,pinterest.ie
+DOMAIN-SUFFIX,pinterest.it
+DOMAIN-SUFFIX,pinterest.jp
+DOMAIN-SUFFIX,pinterest.nl
+DOMAIN-SUFFIX,pinterest.nz
+DOMAIN-SUFFIX,pinterest.ph
+DOMAIN-SUFFIX,pinterest.pt
+DOMAIN-SUFFIX,pinterest.ru
+DOMAIN-SUFFIX,pinterest.se

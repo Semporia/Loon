@@ -1,9 +1,8 @@
-# NAME: PayPal
-# UPDATED: 2024-07-03 16:16:11
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 246
-# USER-AGENT: 1
-# TOTAL: 248
+# ================================================
+# PayPal 规则 (Loon)
+# 生成时间: 2026-07-08 21:11:33
+# ================================================
+DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org
@@ -250,5 +249,4 @@ DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
-DOMAIN-KEYWORD,paypal
 USER-AGENT,PayPal*
