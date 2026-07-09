@@ -1,6 +1,7 @@
 # ================================================
-# Netflix 规则 (Loon)
-# 生成时间: 2026-07-08 21:11:02
+# Netflix
+# Includes: Netflix
+# LastUpdated: 2026-07-09 21:40:25
 # ================================================
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,h-netflix.online-metrix.net

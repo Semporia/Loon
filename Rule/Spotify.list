@@ -1,6 +1,7 @@
 # ================================================
-# Spotify 规则 (Loon)
-# 生成时间: 2026-07-08 21:13:36
+# Spotify
+# Includes: Spotify
+# LastUpdated: 2026-07-09 21:40:56
 # ================================================
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
