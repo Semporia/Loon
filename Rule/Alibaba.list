@@ -1,38 +1,58 @@
-# NAME: AliPay
-# UPDATED: 2024-07-03 16:16:38
-# DOMAIN-SUFFIX: 21
-# TOTAL: 21
-DOMAIN-SUFFIX,alipay
-DOMAIN-SUFFIX,alipay-corp.com
-DOMAIN-SUFFIX,alipay-eco.com
-DOMAIN-SUFFIX,alipay-inc.com
-DOMAIN-SUFFIX,alipay-traffic.com
-DOMAIN-SUFFIX,alipay.cn
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipay.com.cn
-DOMAIN-SUFFIX,alipay.hk
-DOMAIN-SUFFIX,alipay.net
-DOMAIN-SUFFIX,alipaydesign.com
-DOMAIN-SUFFIX,alipaydev.com
-DOMAIN-SUFFIX,alipaydns.com
-DOMAIN-SUFFIX,alipayeshop.com
-DOMAIN-SUFFIX,alipaylog.com
-DOMAIN-SUFFIX,alipaymo.com
-DOMAIN-SUFFIX,alipayobjects.com
-DOMAIN-SUFFIX,alipayplus.com
-DOMAIN-SUFFIX,ifaa.org.cn
-DOMAIN-SUFFIX,luohanacademy.com
-DOMAIN-SUFFIX,sinopayment.com.cn
-
-# NAME: Alibaba
-# UPDATED: 2024-07-03 16:16:37
-# DOMAIN-SUFFIX: 1251
-# IP-CIDR: 53
-# IP-CIDR6: 1
-# TOTAL: 1305
+# ================================================
+# Alibaba
+# Includes: Alibaba, Alipay, Taobao, Tmall, Youku, Gaode, Eleme, Cainiao
+# LastUpdated: 2026-07-09 21:31:33
+# ================================================
+DOMAIN-SUFFIX,0co3geye.cn
+DOMAIN-SUFFIX,2isbbess.cn
+DOMAIN-SUFFIX,33lwhaoinc.cn
+DOMAIN-SUFFIX,52mtkvideo.cn
+DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,b82yxres.cn
+DOMAIN-SUFFIX,e8h2ty.tdum.alibaba.com
+DOMAIN-SUFFIX,ele.me
+DOMAIN-SUFFIX,ele.to
+DOMAIN-SUFFIX,eleme.cn
+DOMAIN-SUFFIX,eleme.com.cn
+DOMAIN-SUFFIX,eleme.io
+DOMAIN-SUFFIX,elemecdn.cn
+DOMAIN-SUFFIX,elemecdn.com
+DOMAIN-SUFFIX,elenet.me
+DOMAIN-SUFFIX,fengniaopaotui.cn
+DOMAIN-SUFFIX,fengniaozhongbao.cn
+DOMAIN-SUFFIX,gamenow.club
+DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,kumiao.tv
+DOMAIN-SUFFIX,kuxiaomiao.cn
+DOMAIN-SUFFIX,kuxiaomiao.com
+DOMAIN-SUFFIX,kuxiaomiao.com.cn
+DOMAIN-SUFFIX,kuxiaomiao.net
+DOMAIN-SUFFIX,ns6mitkxo.cn
+DOMAIN-SUFFIX,sk2cdsnw.cn
+DOMAIN-SUFFIX,sogoodtech1.cn
+DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,taobao
 DOMAIN-SUFFIX,tmall
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,ukoo.com.cn
+DOMAIN-SUFFIX,wenyupages.com
+DOMAIN-SUFFIX,wingsmobiletek.cn
+DOMAIN-SUFFIX,wwc.alicdn.com
+DOMAIN-SUFFIX,xingxuanwaimai.com
+DOMAIN-SUFFIX,xyzele.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,yodou.com
+DOMAIN-SUFFIX,yoku.net.cn
+DOMAIN-SUFFIX,yoqoo.com
+DOMAIN-SUFFIX,yoqoo.net
+DOMAIN-SUFFIX,yoqoo.net.cn
+DOMAIN-SUFFIX,yoqoo.tv
+DOMAIN-SUFFIX,youcaishop.cn
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youku.com.cn
+DOMAIN-SUFFIX,youku.org
+DOMAIN-SUFFIX,youqoo.net
 IP-CIDR,103.206.40.0/22,no-resolve
 IP-CIDR,103.38.56.0/22,no-resolve
 IP-CIDR,103.52.196.0/22,no-resolve
@@ -87,3 +107,5 @@ IP-CIDR,72.254.0.0/16,no-resolve
 IP-CIDR,8.128.0.0/10,no-resolve
 IP-CIDR,8.208.0.0/12,no-resolve
 IP-CIDR6,2400:b200::/32,no-resolve
+USER-AGENT,%E4%BC%98%E9%85%B7*
+USER-AGENT,Youku*
