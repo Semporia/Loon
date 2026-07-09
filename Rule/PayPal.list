@@ -1,6 +1,7 @@
 # ================================================
-# PayPal 规则 (Loon)
-# 生成时间: 2026-07-08 21:11:33
+# PayPal
+# Includes: PayPal
+# LastUpdated: 2026-07-09
 # ================================================
 DOMAIN-KEYWORD,paypal
 DOMAIN-SUFFIX,account-paypal.info
