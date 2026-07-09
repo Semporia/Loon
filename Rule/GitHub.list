@@ -1,6 +1,7 @@
 # ================================================
-# GitHub 规则 (Loon)
-# 生成时间: 2026-07-08 21:07:57
+# GitHub
+# Includes: GitHub
+# LastUpdated: 2026-07-09 21:38:14
 # ================================================
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,atom.io
