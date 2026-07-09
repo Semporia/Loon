@@ -1,6 +1,7 @@
 # ================================================
-# WeChat 规则 (Loon)
-# 生成时间: 2026-07-08 21:17:12
+# WeChat
+# Includes: WeChat
+# LastUpdated: 2026-07-09 21:33:11
 # ================================================
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
