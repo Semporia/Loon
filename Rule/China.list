@@ -1,6 +1,7 @@
 # ================================================
-# China 规则 (Loon)
-# 生成时间: 2026-07-08 21:03:16
+# China
+# Includes: China
+# LastUpdated: 2026-07-09
 # ================================================
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,alicdn
