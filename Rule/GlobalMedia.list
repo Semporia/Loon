@@ -1,6 +1,7 @@
 # ================================================
-# GlobalMedia 规则 (Loon)
-# 生成时间: 2026-07-08 21:08:59
+# GlobalMedia
+# Includes: GlobalMedia
+# LastUpdated: 2026-07-09
 # ================================================
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,anthropic
