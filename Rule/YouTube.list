@@ -1,7 +1,9 @@
 # ================================================
-# YouTube 规则 (Loon)
-# 生成时间: 2026-07-08 21:19:15
+# YouTube
+# Includes: YouTube, YouTubeMusic
+# LastUpdated: 2026-07-09
 # ================================================
+DOMAIN,music.youtube.com
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
