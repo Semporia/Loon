@@ -1,10 +1,8 @@
-# NAME: BiliBili
-# UPDATED: 2024-07-03 16:16:17
-# DOMAIN: 53
-# DOMAIN-SUFFIX: 62
-# IP-CIDR: 8
-# USER-AGENT: 4
-# TOTAL: 127
+# ================================================
+# BiliBili
+# Includes: BiliBili, BiliBiliIntl
+# LastUpdated: 2026-07-09
+# ================================================
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
 DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com
@@ -120,10 +118,6 @@ DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,yo9.com
-USER-AGENT,*bili*
-USER-AGENT,Bilibili*
-USER-AGENT,bili*
-USER-AGENT,bili-inter*
 IP-CIDR,106.75.74.76/32,no-resolve
 IP-CIDR,111.206.25.147/32,no-resolve
 IP-CIDR,119.3.238.64/32,no-resolve
@@ -132,3 +126,7 @@ IP-CIDR,120.92.113.99/32,no-resolve
 IP-CIDR,120.92.153.217/32,no-resolve
 IP-CIDR,134.175.207.130/32,no-resolve
 IP-CIDR,203.107.1.0/24,no-resolve
+USER-AGENT,*bili*
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
+USER-AGENT,bili-inter*
