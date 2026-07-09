@@ -1,6 +1,7 @@
 # ================================================
-# Steam 规则 (Loon)
-# 生成时间: 2026-07-08 21:14:07
+# Steam
+# Includes: Steam
+# LastUpdated: 2026-07-09 21:45:33
 # ================================================
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamstore
