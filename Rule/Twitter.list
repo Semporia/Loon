@@ -1,6 +1,7 @@
 # ================================================
-# Twitter 规则 (Loon)
-# 生成时间: 2026-07-08 21:16:42
+# Twitter
+# Includes: Twitter
+# LastUpdated: 2026-07-09 21:41:57
 # ================================================
 DOMAIN-KEYWORD,twitter
 DOMAIN-SUFFIX,ads-twitter.com
