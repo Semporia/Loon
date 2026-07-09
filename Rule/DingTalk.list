@@ -1,6 +1,7 @@
 # ================================================
-# DingTalk 规则 (Loon)
-# 生成时间: 2026-07-08 21:04:21
+# DingTalk
+# Includes: DingTalk
+# LastUpdated: 2026-07-09 21:32:06
 # ================================================
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dg-work.cn
