@@ -1,6 +1,7 @@
 # ================================================
-# Pinterest 规则 (Loon)
-# 生成时间: 2026-07-08 21:12:04
+# Pinterest
+# Includes: Pinterest
+# LastUpdated: 2026-07-19
 # ================================================
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.at
