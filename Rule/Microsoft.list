@@ -1,7 +1,7 @@
 # ================================================
 # Microsoft
 # Includes: Microsoft, OneDrive, Outlook, Teams, Copilot, Bing, Office365, Xbox, Azure, Skype
-# LastUpdated: 2026-07-09 21:37:43
+# LastUpdated: 2026-10-26
 # ================================================
 DOMAIN,api.msn.com
 DOMAIN,api.statsig.com
