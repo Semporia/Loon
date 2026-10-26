@@ -1,7 +1,7 @@
 # ================================================
 # TikTok
 # Includes: TikTok
-# LastUpdated: 2026-07-19
+# LastUpdated: 2026-10-26
 # ================================================
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 DOMAIN,lf16-pkgcdn.pitaya-clientai.com
@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,bytegecko-i18n.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutapi.com
+DOMAIN-SUFFIX,capcutapi.us
+DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ipstatp.com
